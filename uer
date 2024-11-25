@@ -1,0 +1,15 @@
+
+##############################
+docker exec -d ueransim ./nr-ue -c config/uecfg.yaml
+
+docker exec  ueransim  ip a
+
+docker exec  ueransim  ping google.com -I uesimtun0
+
+docker exec  ueransim  apt  install speedtest-cli -y
+
+docker exec  ueransim  speedtest-cli --secure --source 10.60.0.1
+##############################
+
+
+###########################################
