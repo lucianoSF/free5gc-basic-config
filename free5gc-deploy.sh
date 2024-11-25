@@ -1,5 +1,3 @@
-cd ..
-
 git clone https://github.com/free5gc/free5gc-compose.git
 
 cd free5gc-compose
