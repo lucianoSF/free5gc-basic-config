@@ -55,7 +55,7 @@ default password: <b>free5gc</b>
 
 
 ## Step 6
-a) Configure Prometheus as the Data Source of the metrics on Grafana ([http://192.168.56.101:3000](http://192.168.56.101:5000) in this case):
+a) Configure Prometheus as the Data Source of the metrics on Grafana ([http://192.168.56.101:3000](http://192.168.56.101:3000) in this case):
 
 default  user: <b>admin</b>\
 default password: <b>admin</b>
