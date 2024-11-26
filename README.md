@@ -33,7 +33,7 @@ Deploy free5gc 5G Core with:
 ## Step 4
 Deploy Prometheus and Grafana with:
 ```
-./prometheus-grafana-deplay.sh
+./prometheus-grafana-deploy.sh
 ```
 
 ## Step 5
